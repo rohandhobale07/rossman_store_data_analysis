@@ -1,6 +1,6 @@
                                    📈📊 Rossmann Store Sales Analysis Dashboard 📊📈
 
-This project focuses on performing Exploratory Data Analysis (EDA) on Rossmann HealthChain sales data using Tableau. The dashboard provides insights into sales trends, top-performing stores, customer behavior, and promotional impact through interactive visualizations.
+This project focuses on performing Exploratory Data Analysis (EDA) on Rossmann store sales data using Tableau. The dashboard provides insights into sales trends, top-performing stores, customer behavior, and promotional impact through interactive visualizations.
 
 🛠️ Tools Used:
 - Tableau
